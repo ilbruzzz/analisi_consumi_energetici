@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# script grafici personali da escludere
+grafici_dash.py
+grafici_plt.py
