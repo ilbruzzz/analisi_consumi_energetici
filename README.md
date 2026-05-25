@@ -4,6 +4,11 @@ Dashboard interattiva per l'analisi e la visualizzazione dei consumi energetici 
 
 ---
 
+## Progetto Correlato
+Questo repository rappresenta l'evoluzione software e l'analisi dati del progetto **[pinza-amperometrica](https://github.com/ilbruzzz/pinza-amperometrica)**, che si occupa della parte hardware e della raccolta dati tramite sensore fisico.
+
+---
+
 ## Screenshot
 
 ![Heatmap potenza media per ora e giorno](assets/heatmap.png)
